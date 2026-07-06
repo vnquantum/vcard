@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Hung Quoc Nguyen
+N;CHARSET=UTF-8:Nguyen;Hung;Quoc;Dr.;
+EMAIL;CHARSET=UTF-8;type=HOME,INTERNET:hungngq@gmail.com
+TEL;TYPE=WORK,VOICE:+84 91 849 73 00
+TITLE;CHARSET=UTF-8:Director
+ROLE;CHARSET=UTF-8:Founder & Vice President of VNQuantum
+ORG;CHARSET=UTF-8:VNU Institute for Quantum Technologies
+URL;type=WORK;CHARSET=UTF-8:https://vnquantum.org/
+REV:2026-07-06T10:02:57.857Z
+END:VCARD
